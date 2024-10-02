@@ -1,0 +1,8 @@
+{
+  "FtpSettings": {
+    "Host": "127.0.0.1",
+    "Username": "ftpuser", 
+    "Password": "root1234",
+    "Port": "14148"
+  }
+}
